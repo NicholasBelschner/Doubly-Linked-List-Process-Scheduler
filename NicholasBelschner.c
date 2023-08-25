@@ -1,12 +1,3 @@
-/* 
- * My program stores numbers from a file that is scanned from command line.
- * The two numbers that are being stored is the arrival time and burst time.
- * I used a doubly linked list to store these two numbers together.
- * While keeping the two numbers together I used bubble sort.
- * I created a function that has the purpose of showing the sorted processes,
- * calculating the average burst time and arrival time.
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
